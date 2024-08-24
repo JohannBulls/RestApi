@@ -66,7 +66,7 @@ RestApi is a Spring Boot project that provides a simple REST API for health chec
 
 4. **Access the Application**:
    - Open your web browser and go to `http://localhost:8080/health`.
-   - You should see the HTML message: `<h1>The API is working ok!</h1>`.
+   - You should see the HTML message: `The API is working ok!`.
 
 ### Running Tests
 
